@@ -12,7 +12,7 @@ _______________________________________
 
 ### Descrizione progetto: Basic node web scrapping
 
-Piccola applicazione Node che permette di estrarre alcuni valori d'interesse del programmatre attraverso la tecnica del web scrapping.
+Piccola applicazione Node che permette di estrarre alcuni valori d'interesse del programmatore attraverso la tecnica del web scrapping.
 
 <br>
 
